@@ -39,5 +39,12 @@ export const modulesOptions = {
     SignInButtonText: "Login",
     SignUpButtonText: "Sign Up"
   },
-  "@modules/camera": { buttonText: "+ Take Photo", styles: styles }
+
+  "@modules/camera": { buttonText: "+ Take Photo", styles: styles },
+  "@modules/payments": {
+    title: "App Menu",
+    copy: "Routes available",
+    styles: styles,
+    localOptions: localOptions
+  }
 }
