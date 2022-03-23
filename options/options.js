@@ -38,5 +38,6 @@ export const modulesOptions = {
     SignUpNavText: "Sign Up",
     SignInButtonText: "Login",
     SignUpButtonText: "Sign Up"
-  }
+  },
+  "@modules/camera": { buttonText: "+ Take Photo", styles: styles }
 }
